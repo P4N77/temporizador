@@ -1,0 +1,26 @@
+body{
+    background-image: url(./relojes2.png);
+   
+}
+
+
+#contenedor{
+    background-color: bisque;
+    -webkit-border-radius: 18px;
+border-radius: 18px;
+-webkit-box-shadow: 1px 4px 8px 4px rgba(0,0,0,0.67); 
+box-shadow: 1px 4px 8px 4px rgba(0,0,0,0.67);
+}
+#resultado{
+    width: 70px;
+    height: 70px;
+    border-radius: 30%;
+    margin: auto;
+    padding-top: 20px;
+}
+#boton{
+    height: 40px;
+    width: 100px;
+    margin: auto;
+    
+}
